@@ -27,3 +27,4 @@ This project is a course I followed. Here is a link to the course https://seanal
 - Search Functionality 
 - User Defaults
 - Async/Await For Network Calls
+- Result
