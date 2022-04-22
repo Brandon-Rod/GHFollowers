@@ -18,7 +18,7 @@ This project is a course I followed. Here is a link to the course https://seanal
 - Custom UIAlerts
 - Child ViewControllers
 - Empty States
-
+- Error Handling
 
 ## Technologies Used
 - CollectionView
