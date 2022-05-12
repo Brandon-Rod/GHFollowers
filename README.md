@@ -12,7 +12,7 @@ This project is a course I followed. Here is a link to the course https://seanal
 ## About
 - 100% programmtic UI
 - MVC
-- REST API
+- RESTful API
 - Support for light and dark mode
 - No third-party libraries
 - Custom UIAlerts
