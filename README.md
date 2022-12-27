@@ -21,6 +21,7 @@ This project is a course I followed. Here is a link to the course https://seanal
 - Error Handling
 
 ## Technologies Used
+- UIKit
 - CollectionView
 - Diffable Data Source
 - NSCache
