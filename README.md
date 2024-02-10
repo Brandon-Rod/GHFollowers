@@ -23,6 +23,7 @@ This project is a course I followed. Here is a link to the course https://seanal
 ## Technologies Used
 - UIKit
 - CollectionView
+- TableView
 - Diffable Data Source
 - NSCache
 - Search Functionality 
